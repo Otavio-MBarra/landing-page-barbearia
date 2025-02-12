@@ -1,0 +1,43 @@
+.service {
+    margin-top: 6rem;
+    margin-bottom: 6rem;
+  }
+  
+  .text-red {
+    color: #ba181b;
+    font-size: 0.8rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+  }
+  .title-service {
+    font-size: 1.8rem;
+    font-weight: 700;
+    margin-bottom: 2rem;
+  }
+  
+  .service .container .cards-services .cards {
+    background-color: #f5f3f4;
+    margin-bottom: 40px;
+    border: solid 1px #d3d3d3;
+    cursor: pointer;
+    transition: .4s;
+  }
+  .service .container .cards-services .cards:hover{
+    transform: scale(1.1);
+  }
+  
+  .service .container .cards-services .cards .container-img-card img {
+    width: 100%;
+  }
+  
+  .service .container .cards-services .cards .texts-card {
+    padding: 2rem;
+  }
+  
+  .service .container .cards-services .cards .texts-card .title-card {
+    margin-bottom: 1rem;
+  }
+  .service .container .cards-services .cards .texts-card .text-card {
+    line-height: 24px;
+    padding-right: 3.5rem;
+  }

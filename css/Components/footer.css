@@ -1,0 +1,35 @@
+footer{
+    background-color: #0b090a;
+  }
+  
+  footer .container{
+    padding-top:4rem ;
+    padding-bottom:4rem ;
+    color: #fff ;
+  }
+  
+  footer .container .logo-footer{
+    margin-bottom: 28px;
+  }
+  
+  footer .container .logo-footer .title-footer {
+    font-size: 3rem;
+    font-weight: 400;
+    margin-bottom: 10px;
+  }
+  .title-footer.weight {
+    font-weight: 700;
+  }
+  
+  footer .container .social-icons a:nth-child(2) {
+    margin-right: 2rem;
+    margin-left: 2rem;
+  }
+  
+  i{
+    color: #fff;
+    transition: 250ms;
+  }
+  i:hover{
+    color: #ba181b;
+  }

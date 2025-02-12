@@ -1,0 +1,42 @@
+.home {
+  padding-top: 1rem;
+  background-color: #0b090a;
+  color: #fff;
+}
+.container .content .title-start {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+.container .content .text-start {
+  line-height: 1.5rem;
+  margin-bottom: 1.5rem;
+  font-weight: 400;
+  color: #f5f3f4;
+}
+.container .content .btn-red {
+  background: #ba181b;
+  border: solid 1px #ba181b;
+  color: #fff;
+  font-weight: 700;
+  width: 100%;
+  padding-bottom: 1rem;
+  padding-top: 0.5rem;
+  margin-bottom: 1rem;
+  transition: 250ms;
+  cursor: pointer;
+}
+.container .content .btn-red:hover {
+  background-color: transparent;
+  border: solid 1px #fff;
+
+}
+.container .content .btn-red .icon {
+  position: relative;
+  top: 5px;
+  margin-right: 15px;
+}
+
+.home .container .img .img-home{
+  width: 100%;
+
+}

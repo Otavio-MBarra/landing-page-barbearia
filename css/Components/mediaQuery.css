@@ -1,0 +1,54 @@
+@media only screen and (min-width: 600px) {
+  .container .title-logo {
+    font-size: 1.5rem;
+  }
+  .container .bnt-header {
+    font-size: 1rem;
+  }
+}
+
+@media only screen and (min-width: 992px) {
+  .home .container .content {
+    width: 50%;
+  }
+  .home .container .img {
+    width: 40%;
+    height: 100%;
+  }
+
+  .container .content .title-start {
+    font-size: 3.5rem;
+    padding-right: 2rem;
+  }
+  .container .content .text-start {
+    padding-right: 3rem;
+    font-size: 1.25rem;
+  }
+
+  .container .content .btn-red {
+    width: 274px;
+  }
+  /* service */
+
+  .service .container {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .text-red {
+    font-size: 1rem;
+  }
+  .title-service {
+    font-size: 2.8rem;
+  }
+  .service .container .cards-services {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr;
+    gap: 0 2rem;
+  }
+
+  /* map */
+  .map .container .texts-services .street {
+    font-size: 1.3rem;
+  }
+}

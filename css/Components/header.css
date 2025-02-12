@@ -1,0 +1,37 @@
+header {
+  background-color: #0b090a;
+  padding: 4.5vh 0;
+  color: #fff;
+}
+
+.container {
+  width: min(90vw, 1280px);
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.container .title-logo {
+  font-size: 1.1rem;
+  font-weight: 400;
+}
+.title-logo.weight {
+  font-weight: 700;
+}
+
+.container .bnt-header {
+  padding: 0.8rem 2rem;
+  background-color: transparent;
+  border: solid #fff 1px;
+  color: #fff;
+  font-size: 0.88em;
+  cursor: pointer;
+  transition: 250ms;
+  font-weight: 600;
+}
+.bnt-header:hover {
+  color: #0b090a;
+  background-color: #fff;
+}
