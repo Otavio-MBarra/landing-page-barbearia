@@ -1,18 +1,26 @@
-![inicio barbearia](./img/barbearia-capa.png)
+
 
 # Landing page barbearia
 
-uma landing page com intuito de praticar HTML e CSS.
+![inicio barbearia](./img/barbearia-capa.png)
+
+
+Uma landing page desenvolvida para praticar HTML e CSS, proporcionando uma experiência visual moderna e responsiva.
 
 ## 📁 Acesso ao projeto
 
-[Veja o projeto final](https://stalwart-cannoli-193810.netlify.app).
+[Veja o projeto final](https://barbearia-landing-page.netlify.app/).
 
 ## 🛠️ Abrir e rodar o projeto
 
-Para abrir e rodar o projeto, basta abrir o aquivo `index.html` no navegador.
+Para abrir e rodar o projeto localmente, siga os passos abaixo:
+
+Faça o download ou clone este repositório.
+Abra o arquivo index.html em um navegador de sua escolha.
+Não é necessário instalar dependências ou configurar um ambiente adicional.
 
 ### Contatos
+Caso queira acompanhar mais projetos ou entrar em contato comigo, siga-me nas redes sociais:
 <div>
 <a href="https://www.instagram.com/otavio.code/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
